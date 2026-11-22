@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use Perdrix, please cite it as below."
+title: "Perdrix, an open norm for filling in DVI records"
+abstract: >-
+  An open norm that says how to fill in the dental part of the Interpol disaster
+  victim identification (DVI) forms, ante mortem and post mortem, so that records
+  entered by different experts stay comparable. One JSON file, with a reference
+  Python library.
+version: "0.27.3-draft"
+date-released: "2026-11-22"
+authors:
+  - family-names: Diakonoff
+    given-names: Hadrien
+license: CC-BY-4.0
+url: "https://perdrix-dvi.org/"
+repository-code: "https://github.com/Forensic-Odontologist/perdrix"
+keywords:
+  - disaster victim identification
+  - DVI
+  - forensic odontology
+  - dental records
+  - Interpol
