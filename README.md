@@ -20,8 +20,6 @@ The norm and the texts of this repository are published under [CC BY 4.0](LICENS
 
 > Perdrix, an open norm for filling in DVI records, by Hadrien Diakonoff, <https://perdrix-dvi.org/> (CC BY 4.0).
 
-**The name.** CC BY 4.0 does not license the name. "Perdrix" designates the norm as published here: a modified version must say so and must not be called Perdrix. What may be called "compatible with Perdrix", and how, is in [NAME-POLICY.md](NAME-POLICY.md).
-
 ## Citing
 
 See `CITATION.cff` (GitHub's "Cite this repository" reads it). In short: Diakonoff H. *Perdrix, an open norm for filling in DVI records*, 2026. <https://perdrix-dvi.org/>
