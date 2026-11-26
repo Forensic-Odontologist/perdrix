@@ -4,7 +4,7 @@
 
 **Perdrix** says *how to fill in* the dental part of the disaster victim identification (DVI) forms of Interpol, ante mortem (AM) and post mortem (PM), so that records entered by different experts, in different countries, stay comparable. It does not replace the Interpol forms: it is compatible with them.
 
-> **Status: working draft** (version `0.27.3-draft`). The norm changes from one version to the next and has not yet been reviewed by peers: **use fictitious data only.**
+> **Status: working draft** (version `0.29.0-draft`). The norm changes from one version to the next and has not yet been reviewed by peers: **use fictitious data only.**
 
 ## What is here
 
